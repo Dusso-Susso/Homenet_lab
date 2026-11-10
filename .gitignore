@@ -1,0 +1,20 @@
+# Credenciais locais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Discos e exportações de VMs
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.ova
+*.ovf
+*.iso
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+Desktop.ini
